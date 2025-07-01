@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Michal Sládek</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Michal Sládek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
+    <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
+    
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My second post</title>
+      <link>http://localhost:1313/projects/testproject2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/testproject2/</guid>
+      <description>This is my second post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/testproject2/featured.png" />
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>http://localhost:1313/projects/testproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/testproject/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/testproject/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
