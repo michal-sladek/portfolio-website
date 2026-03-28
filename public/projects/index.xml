@@ -12,23 +12,73 @@
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My second post</title>
-      <link>http://localhost:1313/projects/testproject2/</link>
+      <title>Bob &amp; Bober</title>
+      <link>http://localhost:1313/projects/bob_bober/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/testproject2/</guid>
-      <description>This is my second post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/testproject2/featured.png" />
+      <guid>http://localhost:1313/projects/bob_bober/</guid>
+      <description>A 2D co-op puzzle platformer.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bob_bober/featured.png" />
     </item>
     
     <item>
-      <title>My first post</title>
-      <link>http://localhost:1313/projects/testproject/</link>
+      <title>The Secret of Meenees</title>
+      <link>http://localhost:1313/projects/the_secret_of_meenees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/testproject/</guid>
-      <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/testproject/featured.png" />
+      <guid>http://localhost:1313/projects/the_secret_of_meenees/</guid>
+      <description>A 3D first-person fantasy dungeon crawler.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/the_secret_of_meenees/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hurricane Isabel visualization</title>
+      <link>http://localhost:1313/projects/hurricane_isabel_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/hurricane_isabel_visualization/</guid>
+      <description>An interactive visualisation of the 2003 hurricane Isabel dataset.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hurricane_isabel_visualization/featured.png" />
+    </item>
+    
+    <item>
+      <title>MIST</title>
+      <link>http://localhost:1313/projects/mist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/mist/</guid>
+      <description>A 2D top-down survival horror game.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mist/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>OpenGL rendering engine</title>
+      <link>http://localhost:1313/projects/opengl_engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/opengl_engine/</guid>
+      <description>A simple rendering engine in OpenGL.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/opengl_engine/featured.png" />
+    </item>
+    
+    <item>
+      <title>Celeste PICO-8 in PyGame</title>
+      <link>http://localhost:1313/projects/celeste_pico8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/celeste_pico8/</guid>
+      <description>A PyGame implementation of Celeste Classic (2015).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/celeste_pico8/featured.png" />
+    </item>
+    
+    <item>
+      <title>Other smaller projects</title>
+      <link>http://localhost:1313/projects/other_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/projects/other_projects/</guid>
+      <description>A collection of smaller projects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/other_projects/featured.png" />
     </item>
     
   </channel>

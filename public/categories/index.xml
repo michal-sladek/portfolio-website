@@ -12,21 +12,111 @@
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/categories/about-me/</link>
+      <title>Blender</title>
+      <link>http://localhost:1313/categories/blender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/categories/about-me/</guid>
+      <guid>http://localhost:1313/categories/blender/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Space</title>
-      <link>http://localhost:1313/categories/space/</link>
+      <title>C#</title>
+      <link>http://localhost:1313/categories/c%23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/categories/space/</guid>
+      <guid>http://localhost:1313/categories/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/categories/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GIMP</title>
+      <link>http://localhost:1313/categories/gimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/gimp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/categories/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>http://localhost:1313/categories/opengl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/opengl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/categories/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Solo</title>
+      <link>http://localhost:1313/categories/solo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/solo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/categories/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/team/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UE5</title>
+      <link>http://localhost:1313/categories/ue5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/ue5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/categories/unity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/categories/unity/</guid>
       <description></description>
       
     </item>
