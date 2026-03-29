@@ -27,7 +27,7 @@
 
 [[main]]
   name = "CV"
-  url = "" # TODO
+  url = "/slademi3.pdf"
   weight = 40
 
 #[[main]]

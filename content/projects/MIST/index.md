@@ -1,5 +1,7 @@
 ---
 title: "MIST"
+showDate: true
+date: 2025-01-25
 weight: 4
 draft: false
 description: ""
@@ -7,7 +9,12 @@ summary: "A 2D top-down survival horror game."
 categories: ["C#", "Unity", "team"]
 ---
 
-[trailer](TODO upload trailer to YT), [download](https://cent.felk.cvut.cz/courses/39HRY/archives/2024-2025/team08/MIST-bin.zip)
+{{< button href="https://aeronark.itch.io/mist" target="_blank" >}}
+{{< icon "itch-io" >}} download
+{{< /button >}}
+<br><br>
+
+{{< youtubeLite id="1y5WsDY4oH0" label="Trailer" >}}
 
 MIST is a 2D top-down single-player survival horror game that was made in Unity.
 
@@ -23,9 +30,15 @@ My contributions to the project:
 - level design
 - game progression scripting
 
+{{< video
+    src="MIST_showcase.mp4"
+    loop=false
+    muted=false
+>}}
+
 {{< gallery >}}
-  <img src="gallery/screenshot01.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/screenshot02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/screenshot03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="featured.jpg"             class="grid-w100 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/screenshot01.jpg" class="grid-w100" />
+  <img src="gallery/screenshot02.jpg" class="grid-w50" />
+  <img src="gallery/screenshot03.jpg" class="grid-w50" />
+  <img src="featured.jpg"             class="grid-w100" />
 {{< /gallery >}}
