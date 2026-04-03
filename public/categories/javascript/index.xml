@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript on Bc. Michal Sládek</title>
-    <link>http://localhost:1313/michal-sladek/portfolio-website/categories/javascript/</link>
+    <link>http://localhost:1313/portfolio-website/categories/javascript/</link>
     <description>Recent content in JavaScript on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/michal-sladek/portfolio-website/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-website/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hurricane Isabel visualization</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/hurricane_isabel_visualization/</link>
+      <link>http://localhost:1313/portfolio-website/projects/hurricane_isabel_visualization/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/hurricane_isabel_visualization/</guid>
+      <guid>http://localhost:1313/portfolio-website/projects/hurricane_isabel_visualization/</guid>
       <description>An interactive visualisation of the 2003 hurricane Isabel dataset.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/hurricane_isabel_visualization/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio-website/projects/hurricane_isabel_visualization/featured.png" />
     </item>
     
   </channel>

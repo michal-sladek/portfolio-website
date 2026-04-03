@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About me on Bc. Michal Sládek</title>
-    <link>http://localhost:1313/michal-sladek/portfolio-website/about_me/</link>
+    <link>http://localhost:1313/portfolio-website/about_me/</link>
     <description>Recent content in About me on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <atom:link href="http://localhost:1313/michal-sladek/portfolio-website/about_me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio-website/about_me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/about_me/article/</link>
+      <link>http://localhost:1313/portfolio-website/about_me/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/about_me/article/</guid>
-      <description></description>
+      <guid>http://localhost:1313/portfolio-website/about_me/article/</guid>
+      <description>&lt;p&gt;Motivated Computer Science student focused on computer graphics, combining technical proficiency with a keen eye for visual detail. Eager to contribute creativity, technical expertise, and problem-solving skills to innovative projects.&lt;/p&gt;&#xA;&lt;p&gt;hugo s&lt;/p&gt;</description>
       
     </item>
     

@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C# on Bc. Michal Sládek</title>
-    <link>http://localhost:1313/michal-sladek/portfolio-website/categories/c%23/</link>
+    <link>http://localhost:1313/portfolio-website/categories/c%23/</link>
     <description>Recent content in C# on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/michal-sladek/portfolio-website/categories/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-website/categories/c%23/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bob &amp; Bober</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/bob_bober/</link>
+      <link>http://localhost:1313/portfolio-website/projects/bob_bober/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/bob_bober/</guid>
+      <guid>http://localhost:1313/portfolio-website/projects/bob_bober/</guid>
       <description>A 2D co-op puzzle platformer.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/bob_bober/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio-website/projects/bob_bober/featured.png" />
     </item>
     
     <item>
       <title>The Secret of Meenees</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/the_secret_of_meenees/</link>
+      <link>http://localhost:1313/portfolio-website/projects/the_secret_of_meenees/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/the_secret_of_meenees/</guid>
+      <guid>http://localhost:1313/portfolio-website/projects/the_secret_of_meenees/</guid>
       <description>A 3D first-person fantasy dungeon crawler.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/the_secret_of_meenees/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio-website/projects/the_secret_of_meenees/featured.png" />
     </item>
     
     <item>
       <title>MIST</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/mist/</link>
+      <link>http://localhost:1313/portfolio-website/projects/mist/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/mist/</guid>
+      <guid>http://localhost:1313/portfolio-website/projects/mist/</guid>
       <description>A 2D top-down survival horror game.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/mist/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio-website/projects/mist/featured.jpg" />
     </item>
     
   </channel>

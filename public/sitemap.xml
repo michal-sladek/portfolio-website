@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/traffic_sign_generator/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/traffic_sign_generator/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/bob_bober/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/bob_bober/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/about_me/article/</loc>
+    <loc>http://localhost:1313/portfolio-website/about_me/article/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/the_secret_of_meenees/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/the_secret_of_meenees/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/hurricane_isabel_visualization/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/hurricane_isabel_visualization/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/mist/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/mist/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/opengl_engine/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/opengl_engine/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/celeste_pico8/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/other_projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/projects/</loc>
+    <loc>http://localhost:1313/portfolio-website/projects/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/</loc>
+    <loc>http://localhost:1313/portfolio-website/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/michal-sladek/portfolio-website/about_me/</loc>
+    <loc>http://localhost:1313/portfolio-website/about_me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bc. Michal Sládek</title>
-    <link>http://localhost:1313/michal-sladek/portfolio-website/categories/</link>
+    <link>http://localhost:1313/portfolio-website/categories/</link>
     <description>Recent content in Categories on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/michal-sladek/portfolio-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>C#</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/c%23/</link>
+      <link>http://localhost:1313/portfolio-website/categories/c%23/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/c%23/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Team</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/team/</link>
+      <link>http://localhost:1313/portfolio-website/categories/team/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/team/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/team/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/unity/</link>
+      <link>http://localhost:1313/portfolio-website/categories/unity/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/unity/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/javascript/</link>
+      <link>http://localhost:1313/portfolio-website/categories/javascript/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/javascript/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blender</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/blender/</link>
+      <link>http://localhost:1313/portfolio-website/categories/blender/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/blender/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/blender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/c&#43;&#43;/</link>
+      <link>http://localhost:1313/portfolio-website/categories/c&#43;&#43;/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenGL</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/opengl/</link>
+      <link>http://localhost:1313/portfolio-website/categories/opengl/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/opengl/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/opengl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Solo</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/solo/</link>
+      <link>http://localhost:1313/portfolio-website/categories/solo/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/solo/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/solo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/python/</link>
+      <link>http://localhost:1313/portfolio-website/categories/python/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/python/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Maya</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/maya/</link>
+      <link>http://localhost:1313/portfolio-website/categories/maya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/maya/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/maya/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>UE5</title>
-      <link>http://localhost:1313/michal-sladek/portfolio-website/categories/ue5/</link>
+      <link>http://localhost:1313/portfolio-website/categories/ue5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/michal-sladek/portfolio-website/categories/ue5/</guid>
+      <guid>http://localhost:1313/portfolio-website/categories/ue5/</guid>
       <description></description>
       
     </item>

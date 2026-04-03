@@ -3,8 +3,13 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://github.com/michal-sladek/portfolio-website/"
+baseURL = "https://michal-sladek.github.io/portfolio-website/"
 defaultContentLanguage = "en"
+
+# required for github hosting
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

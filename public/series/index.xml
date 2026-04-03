@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Bc. Michal Sládek</title>
-    <link>http://localhost:1313/michal-sladek/portfolio-website/series/</link>
+    <link>http://localhost:1313/portfolio-website/series/</link>
     <description>Recent content in Series on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <atom:link href="http://localhost:1313/michal-sladek/portfolio-website/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio-website/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
