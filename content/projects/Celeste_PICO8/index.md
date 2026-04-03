@@ -1,6 +1,6 @@
 ---
 title: "Celeste PICO-8 in PyGame"
-weight: 6
+weight: 7
 showDate: true
 date: 2021-01-25
 draft: false

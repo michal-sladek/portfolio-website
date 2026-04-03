@@ -2,7 +2,7 @@
 title: "Hurricane Isabel visualization"
 showDate: true
 date: 2025-01-25
-weight: 3
+weight: 4
 draft: false
 description: ""
 summary: "An interactive visualisation of the 2003 hurricane Isabel dataset."

@@ -2,7 +2,7 @@
 title: "MIST"
 showDate: true
 date: 2025-01-25
-weight: 4
+weight: 5
 draft: false
 description: ""
 summary: "A 2D top-down survival horror game."

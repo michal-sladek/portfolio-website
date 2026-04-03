@@ -2,7 +2,7 @@
 title: "Bob & Bober"
 showDate: true
 date: 2026-01-25
-weight: 1
+weight: 2
 draft: false
 description: ""
 summary: "A 2D co-op puzzle platformer."

@@ -1,18 +1,21 @@
 ---
 title: "Other projects"
-weight: 7
+weight: 8
+params: 
+  dateString: "2020 - 2026"
 draft: false
 description: ""
 showTableOfContents: true
 summary: "A collection of smaller projects."
-categories: ["Blender", "Maya", "UE5", "C++", "team", "solo"]
+categories: ["Blender", "Maya", "UE5", "C++", "Python", "team", "solo"]
 ---
 
 {{< lead >}}
 A collection of smaller projects.
 {{< /lead >}}
 
-## Particle-based fluid simulation
+## Fluid simulation <span class="text-base text-neutral-500 dark:text-neutral-400">(2026) </span>
+
 {{< keywordList >}}
 {{< keyword >}} UE5 {{< /keyword >}}
 {{< keyword >}} C++ {{< /keyword >}}
@@ -36,7 +39,7 @@ calculate forces between particles. More information on the approach and impleme
     muted=false
 >}}
 
-## Blender
+## Blender <span class="text-base text-neutral-500 dark:text-neutral-400">(2020 - 2024) </span>
 {{< keywordList >}}
 {{< keyword >}} Python {{< /keyword >}}
 {{< keyword >}} Solo {{< /keyword >}}
@@ -45,7 +48,7 @@ calculate forces between particles. More information on the approach and impleme
 For anything 3D-related, I really like using Blender. I especially enjoyed working with material nodes and 
 creating procedural materials in my personal projects.
 
-### procedural materials
+### Materials <span class="text-base text-neutral-500 dark:text-neutral-400">(2020 - 2022) </span>
 
 {{< gallery >}}
   <img src="gallery/procedural_materials_blackhole.png" class="grid-w100" />
@@ -55,14 +58,20 @@ creating procedural materials in my personal projects.
   <img src="gallery/procedural_materials_rose.png" class="grid-w100" />
 {{< /gallery >}}
 
-### scripting
+### Scripting <span class="text-base text-neutral-500 dark:text-neutral-400">(2023) </span>
+
+{{< button href="https://github.com/michal-sladek/blender_fractals" target="_blank" >}}
+{{< icon "github" >}} src
+{{< /button >}}
+
+Python scripts that can be added to Blender as Add-ons that allow the user to generate 3D fractal meshes.
 
 {{< gallery >}}
   <img src="gallery/scripting_dodecahedron.png" class="grid-w100" />
   <img src="gallery/scripting_sierpinski.png" class="grid-w100" />
 {{< /gallery >}}
 
-### minimalistic
+### Minimalistic <span class="text-base text-neutral-500 dark:text-neutral-400">(2022) </span>
 
 {{< gallery >}}
   <img src="gallery/minimalistic_racetrack1.png" class="grid-w100" />
@@ -72,7 +81,7 @@ creating procedural materials in my personal projects.
   <img src="gallery/minimalistic_space.png" class="grid-w100" />
 {{< /gallery >}}
 
-### other
+### Other <span class="text-base text-neutral-500 dark:text-neutral-400">(2020) </span>
 
 {{< figure
     src="gallery/other_architectural_visualization.png"
@@ -80,13 +89,15 @@ creating procedural materials in my personal projects.
     caption="A very early visualization of a production hall."
 >}}
 
-## Maya
+## Maya <span class="text-base text-neutral-500 dark:text-neutral-400">(2026) </span>
+
 {{< keywordList >}}
 {{< keyword >}} Solo {{< /keyword >}}
 {{< /keywordList >}}
 
 I also tried using Autodesk Maya for its history-based approach to 3D modeling, but I found that 
-Blender's workflow suits me better.
+Blender's workflow suits me better. That said, Maya is a powerful tool, and I expect to become more 
+proficient with it over time.
 
 {{< gallery >}}
   {{< figure src="gallery/maya_landmine1.png" figureClass="grid-w100" >}}
@@ -103,7 +114,7 @@ Blender's workflow suits me better.
   {{< figure src="gallery/HoN1.jpg" figureClass="grid-w50" >}}
 {{< /gallery >}}
 
-## Raytracing projects
+## Raytracing projects <span class="text-base text-neutral-500 dark:text-neutral-400">(2025) </span>
 {{< keywordList >}}
 {{< keyword >}} C++ {{< /keyword >}}
 {{< keyword >}} Solo {{< /keyword >}}

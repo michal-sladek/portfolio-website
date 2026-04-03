@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Michal Sládek</title>
-    <link>http://localhost:1313/categories/python/</link>
-    <description>Recent content in Python on Michal Sládek</description>
+    <title>Python on Bc. Michal Sládek</title>
+    <link>http://localhost:1313/michal-sladek/portfolio-website/categories/python/</link>
+    <description>Recent content in Python on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/michal-sladek/portfolio-website/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Celeste PICO-8 in PyGame</title>
-      <link>http://localhost:1313/projects/celeste_pico8/</link>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/celeste_pico8/</guid>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/</guid>
       <description>A PyGame implementation of Celeste Classic (2015).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/celeste_pico8/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/featured.png" />
+    </item>
+    
+    <item>
+      <title>Other projects</title>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/</guid>
+      <description>A collection of smaller projects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/featured.png" />
     </item>
     
   </channel>

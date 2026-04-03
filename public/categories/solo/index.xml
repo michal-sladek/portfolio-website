@@ -1,44 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solo on Michal Sládek</title>
-    <link>http://localhost:1313/categories/solo/</link>
-    <description>Recent content in Solo on Michal Sládek</description>
+    <title>Solo on Bc. Michal Sládek</title>
+    <link>http://localhost:1313/michal-sladek/portfolio-website/categories/solo/</link>
+    <description>Recent content in Solo on Bc. Michal Sládek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>msladek100@gmail.com (Bc. Michal Sládek)</managingEditor>
     <webMaster>msladek100@gmail.com (Bc. Michal Sládek)</webMaster>
     
-    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/solo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/michal-sladek/portfolio-website/categories/solo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Traffic sign generator</title>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/traffic_sign_generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/traffic_sign_generator/</guid>
+      <description>An application for generating 3D meshes of vertical traffic signs from 2D vector data.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/traffic_sign_generator/featured.png" />
+    </item>
     
     <item>
       <title>OpenGL rendering engine</title>
-      <link>http://localhost:1313/projects/opengl_engine/</link>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/opengl_engine/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/opengl_engine/</guid>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/opengl_engine/</guid>
       <description>A simple rendering engine in OpenGL.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/opengl_engine/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/opengl_engine/featured.png" />
     </item>
     
     <item>
       <title>Celeste PICO-8 in PyGame</title>
-      <link>http://localhost:1313/projects/celeste_pico8/</link>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/celeste_pico8/</guid>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/</guid>
       <description>A PyGame implementation of Celeste Classic (2015).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/celeste_pico8/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/celeste_pico8/featured.png" />
     </item>
     
     <item>
       <title>Other projects</title>
-      <link>http://localhost:1313/projects/other_projects/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>msladek100@gmail.com (Bc. Michal Sládek)</author>
-      <guid>http://localhost:1313/projects/other_projects/</guid>
+      <guid>http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/</guid>
       <description>A collection of smaller projects.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/other_projects/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/michal-sladek/portfolio-website/projects/other_projects/featured.png" />
     </item>
     
   </channel>
