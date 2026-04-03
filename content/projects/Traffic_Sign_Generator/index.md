@@ -2,7 +2,7 @@
 title: "Traffic sign generator"
 weight: 1
 params: 
-  dateString: "2025 - ongoing"
+  dateString: "2025 - ongoing" 
 draft: false
 description: ""
 summary: "An application for generating 3D meshes of vertical traffic signs from 2D vector data."
