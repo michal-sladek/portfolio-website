@@ -11,7 +11,7 @@ title = "Bc. Michal Sládek"
   dateFormat = "2006"
    logo = "img/profile.png"
    secondaryLogo = "img/secondary-logo.png"
-   description = "My awesome website"
+   description = "My portfolio"
    copyright = ""
 
  [params.author]

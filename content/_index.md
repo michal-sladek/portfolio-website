@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of adding content to the homepage."
+title: "Portfolio of projects."
+description: "Bc. Michal Sládek – computer graphics student"
 ---
+
 Welcome to my website! I'm really happy you stopped by.
