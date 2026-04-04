@@ -14,7 +14,7 @@ categories: ["JavaScript", "team"]
 {{< /button >}}
 <br><br>
 
-An interactive visualisation of a single time frame of the 2003 hurricane Isabel dataset (specifically air temperature,
+An interactive visualization of a single time frame of the 2003 hurricane Isabel dataset (specifically air temperature,
 wind direction and wind speed). 
 
 This project was created by me and my colleague. In my portion of the implementation I focused on stream tubes (objects that represent wind direction and speed) 
