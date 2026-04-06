@@ -12,6 +12,8 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 
+favicon = "favicon.ico"
+
 replyByEmail = false
 
 # mainSections = ["section1", "section2"]
