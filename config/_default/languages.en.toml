@@ -10,7 +10,7 @@ title = "Bc. Michal Sládek"
   rtl = false
   dateFormat = "2006"
    logo = "img/foto.png"
-   secondaryLogo = "img/secondary-logo.png"
+   secondaryLogo = "img/foto.png"
    description = "My portfolio"
    copyright = ""
 
