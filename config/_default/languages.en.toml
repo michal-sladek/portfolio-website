@@ -9,7 +9,7 @@ title = "Bc. Michal Sládek"
   isoCode = "en"
   rtl = false
   dateFormat = "2006"
-   logo = "img/profile.png"
+   logo = "img/foto.png"
    secondaryLogo = "img/secondary-logo.png"
    description = "My portfolio"
    copyright = ""
@@ -17,7 +17,7 @@ title = "Bc. Michal Sládek"
  [params.author]
    name = "Bc. Michal Sládek"
    email = "msladek100@gmail.com"
-   image = "img/profile.png"
+   image = "img/foto.png"
    imageQuality = 96
    headline = "computer graphics student"
    bio = "computer graphics student" # appears in author card in each article
